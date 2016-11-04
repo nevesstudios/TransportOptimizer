@@ -1,0 +1,33 @@
+{
+  "name": "transportoptimizer",
+  "version": "1.0.0",
+  "description": "Find the optimal transport vehicle for your next run!",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nevesstudios/TransportOptimizer.git"
+  },
+  "keywords": [
+    "transport",
+    "cargo",
+    "fuel",
+    "optimizer",
+    "calculator",
+    "ship",
+    "vehicle",
+    "trade"
+  ],
+  "author": "nevesstudios",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/nevesstudios/TransportOptimizer/issues"
+  },
+  "homepage": "https://github.com/nevesstudios/TransportOptimizer#readme",
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "jquery": "^3.1.0"
+  }
+}
